@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a software engineer from Czechia, hacking things together @ [Gitpod](https://gitpod.io/).
+I'm a software engineer from Czechia, hacking things together @ [Ona](https://ona.com).
 
 
 <details>
